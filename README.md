@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DevModProjects
 - 👀 I’m interested in Teaching kids (and adults) to be excited about learning to program.
 - 🌱 I’m currently exploring Deep Learning.
-- 💞️ I’m looking to collaborate on stroke recovery via technology.
+- 💞️ I’m looking to collaborate on Recovery Techniques for Stroke/Brain-Injury, via technology.
 - 📫 How to reach me: gitstoked@igmax.com
 
 <!---
